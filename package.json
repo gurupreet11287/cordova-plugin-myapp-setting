@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-myapp-setting",
+  "version": "0.0.1",
+  "description": "Cordova App Setting Plugin",
+  "cordova": {
+    "id": "cordova-plugin-myapp-setting",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+   "ecosystem:cordova",
+    "cordova-android",
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "DeveloperGuru",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
